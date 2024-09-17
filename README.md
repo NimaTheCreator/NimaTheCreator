@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NimaTheCreator
--Thats it... what else?
+... thank you for your intrest
 
 <!---
 NimaTheCreator/NimaTheCreator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
